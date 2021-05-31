@@ -1,0 +1,10 @@
+C:\Users\Armando Prado\Documents\Srminario de sitemas operativos\Actividad1SDSOP\bin\Debug\Actividad1SDSOP.exe.config
+C:\Users\Armando Prado\Documents\Srminario de sitemas operativos\Actividad1SDSOP\bin\Debug\Actividad1SDSOP.exe
+C:\Users\Armando Prado\Documents\Srminario de sitemas operativos\Actividad1SDSOP\bin\Debug\Actividad1SDSOP.pdb
+C:\Users\Armando Prado\Documents\Srminario de sitemas operativos\Actividad1SDSOP\obj\Debug\Actividad1SDSOP.csprojAssemblyReference.cache
+C:\Users\Armando Prado\Documents\Srminario de sitemas operativos\Actividad1SDSOP\obj\Debug\Actividad1SDSOP.Form1.resources
+C:\Users\Armando Prado\Documents\Srminario de sitemas operativos\Actividad1SDSOP\obj\Debug\Actividad1SDSOP.Properties.Resources.resources
+C:\Users\Armando Prado\Documents\Srminario de sitemas operativos\Actividad1SDSOP\obj\Debug\Actividad1SDSOP.csproj.GenerateResource.cache
+C:\Users\Armando Prado\Documents\Srminario de sitemas operativos\Actividad1SDSOP\obj\Debug\Actividad1SDSOP.csproj.CoreCompileInputs.cache
+C:\Users\Armando Prado\Documents\Srminario de sitemas operativos\Actividad1SDSOP\obj\Debug\Actividad1SDSOP.exe
+C:\Users\Armando Prado\Documents\Srminario de sitemas operativos\Actividad1SDSOP\obj\Debug\Actividad1SDSOP.pdb
